@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mehulk24/Mehulk24/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mehulk24/Mehulk24/snake.svg" alt="Snake animation" />
 
 ###
